@@ -1,5 +1,5 @@
 # playground
-I'll put code that I think it's fun.
+I'll put everything that I think it's fun.
 # E2E Encryption code
 The code allows you create a certificate, and then you can let your message sender take your public key to send encrypted messages to you. The messages are encrypted using symetic encryption, and the password that encrypts messages are encrypted by asymmetric encryption(public and private key)
 # Reverse TCP socket proxy
