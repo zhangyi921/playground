@@ -1,0 +1,20 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "I'll put code that I think it's fun.",
+  "homepage": "https://github.com/zhangyi921/playground#readme",
+  "bugs": {
+    "url": "https://github.com/zhangyi921/playground/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyi921/playground.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
