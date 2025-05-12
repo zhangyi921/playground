@@ -63,3 +63,9 @@ It's best to use it with text based protocol.
 files: `socketClient.js`, `socketServer.js`
 
 Run both files, client will connect to server and you can use terminal to type messages and send to server.
+
+There'a also a UDP version of it: `udpClient.js`, `udpServer.js`
+# Security camera example
+file: `securityCamera.py`
+
+Python is much more powerful on the specific project so I have to use python. It uses opencv and flask stream response. However audio is not recorded.
